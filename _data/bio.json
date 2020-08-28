@@ -48,6 +48,17 @@
       "keywords": [
       ]
     }
+   "skills": [
+    {
+      "name": "Bilingual",
+      "keywords": [ "French"
+      ]
+    },
+    {
+      "name": "Microsoft Office",
+      "keywords": [ "Excel, Word, Powerpoint, SharePoint"
+      ]
+    }
   ],
    "education": [
     {
