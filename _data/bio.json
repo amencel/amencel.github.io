@@ -49,108 +49,103 @@
       ]
     }
   ],
-  "skills": [
+   "Education": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Shidler College of Business | University of Hawaii at Manoa",
+      "area": "Marketing and Management Information Systems (expected Spring, 2022)",
+      "studyType": "B.B.A",
+      "startDate": "Aug. 2018",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.93",
       "courses": [
       ]
     }
   ],
-  "work": [
+  "Experience": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Bank of Hawaii",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "June 2020",
+      "endDate": "Aug. 2020",
+      "summary": "Application Operations Intern",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Formulates dashboards and reports to improve productivity",
+        "Streamlines SharePoint sites to promote collaboration"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Office of Internship and Career Development | Shidler College of Business",
+      "website": "",
+      "startDate": "Jan. 2020",
+      "endDate": "Present",
+      "summary": "Student Advisor",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Offers peer advising and guidance to undergraduate students",
+        "Organizes a career expo with 65+ companiess in attendancee"
+      ]
+    },
+    {
+      "company": "Northwestern Mutual",
+      "website": "",
+      "startDate": "Nov. 2018",
+      "endDate": "Feb. 2019",
+      "summary": "Mareketing and Recruiting Coordinator Intern",
+      "highlights": [
+        "Cultivated a social media presencee on Instagram, LinkedIN and Facebook",
+        "Developed a recruitment campaign and coordinated interviews with qualified candidates"
       ]
     }
   ],
-  "volunteer": [
+  "Extracurriculars": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Business Executive Society of Tomorrow",
+      "website": "https://www.bestuhm.org/",
+      "position": "",
+      "startDate": "Dec. 2019",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Director of Corporate Relations",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Pioneers Professional Interaction Night, including pairing students with 40+ Hawaii business community leaders to maximize professional growth",
+        "Advances relationships with the business community by cordinating 6 company tours"
       ]
     },
     {
-      "organization": "",
+      "organization": "Direct Admit Program Mentor",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Shidler College of Business",
+      "startDate": "Aug. 2019",
+      "endDate": "Aug. 2020",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Mentored and supported college freshman in their transition to college",
+        "Promoted the direct admit program at a Shidler luncheon",
       ]
     }
   ],
-  "awards": [
+  "Honors and Awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Fujitsu-JAIMS Casee Competition",
+      "date": "Feb. 2019, Feb. 2020",
+      "awarder": "",
+      "summary": "2nd place finisher and 2 time participant"
+      "highlight": [
+        "Worked with 3 Fujitsu Japanese employees to deevelop an international mindset and create an innovative product using existing technologies"]
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Shidler Global Leader",
+      "date": "Aug. 2020-Present",
+      "awarder": "Shidler College of Business",
+      "summary": ""
+    },
+    {
+      "title": "Outstanding Sophomore",
+      "date": "May 2020",
+      "awarder": "Shidler College of Business, Business Night"
+    },
+    {
+      "title": "New Warrior Provost Achievement Scholar",
+      "date": "May 2018-Present",
+      "awarder": "University of Hawaii at Manoa"
     }
   ],
   "references": [
