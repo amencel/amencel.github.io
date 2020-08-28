@@ -64,10 +64,11 @@
   "work": [
     {
       "company": "Bank of Hawaii",
+      "position": "Application Operations Intern",
       "website": "",
-      "startDate": "June 2020",
-      "endDate": "Aug. 2020",
-      "summary": "Application Operations Intern",
+      "startDate": "2020",
+      "endDate": "2020",
+      "summary": "",
       "highlights": [
         "Formulates dashboards and reports to improve productivity",
         "Streamlines SharePoint sites to promote collaboration"
@@ -75,10 +76,11 @@
     },
     {
       "company": "Office of Internship and Career Development | Shidler College of Business",
+      "position": "Student Advisor",
       "website": "",
-      "startDate": "Jan. 2020",
+      "startDate": "2020",
       "endDate": "Present",
-      "summary": "Student Advisor",
+      "summary": "",
       "highlights": [
         "Offers peer advising and guidance to undergraduate students",
         "Organizes a career expo with 65+ companiess in attendancee"
@@ -86,17 +88,18 @@
     },
     {
       "company": "Northwestern Mutual",
+      "position": "Marketing and Recruiting Coordinator Intern",
       "website": "",
-      "startDate": "Nov. 2018",
-      "endDate": "Feb. 2019",
-      "summary": "Mareketing and Recruiting Coordinator Intern",
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "",
       "highlights": [
         "Cultivated a social media presencee on Instagram, LinkedIN and Facebook",
         "Developed a recruitment campaign and coordinated interviews with qualified candidates"
       ]
     }
   ],
-  "activities": [
+  "volunteer": [
     {
       "organization": "Business Executive Society of Tomorrow",
       "website": "https://www.bestuhm.org/",
