@@ -1,175 +1,180 @@
 {
-  "basics": {
-    "name": "Alyssa Mencel",
-    "label": "Shidler Undergraduate",
-    "picture": "https://amencel.github.io/images/alyssa.jpg",
-    "email": "amencel@hawaii.edu",
-    "phone": "651-408-5729",
-    "website": "https://amencel.github.io",
-    "summary": "Aloha! I am studying for a B.B.A in Management Information Systems and Marketing in the Shidler College of Business at the University of Hawaii at Manoa. I expect to graduate in Spring, 2022.",
-    "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
+   "basics":{
+      "name":"Alyssa Mencel",
+      "label":"Shidler Undergraduate",
+      "picture":"https://amencel.github.io/images/alyssa.jpg",
+      "email":"amencel@hawaii.edu",
+      "phone":"651-408-5729",
+      "website":"https://amencel.github.io",
+      "summary":"Aloha! I am studying for a B.B.A in Management Information Systems and Marketing in the Shidler College of Business at the University of Hawaii at Manoa. I expect to graduate in Spring, 2022.",
+      "location":{
+         "address":"",
+         "postalCode":"96822",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"amencel",
+            "url":"http://github.com/amencel"
+         },
+         {
+            "network":"linkedin",
+            "username":"alyssamencel",
+            "url":"http://linkedin.com/in/alyssamencel"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "amencel",
-        "url": "http://github.com/amencel"
+         "name":"Data Analytics",
+         "keywords":[
+            
+         ]
       },
       {
-        "network": "linkedin",
-        "username": "alyssamencel",
-        "url": "http://linkedin.com/in/alyssamencel"
-      }
-    ]
-  },
-  "interests": [
-    {
-      "name": "Data Analytics",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Hiking",
-      "keywords": [
-      ]
-    },
+         "name":"Hiking",
+         "keywords":[
+            
+         ]
+      },
       {
-      "name": "Traveling",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Swimming",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Bilingual",
-      "level": "",
-      "keywords": [ 
-        "French"
-      ]
-    },
-    {
-      "name": "Microsoft Office",
-      "level": "",
-      "keywords": [ 
-        "Excel, Word, Powerpoint, SharePoint"
-      ]
-    }
-  ],
-   "education": [
-    {
-      "institution": "Shidler College of Business | University of Hawaii at Manoa",
-      "area": "Marketing and Management Information Systems (expected Spring, 2022)",
-      "studyType": "B.B.A",
-      "startDate": "2018",
-      "endDate": "Present",
-      "gpa": "3.93",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Bank of Hawaii",
-      "position": "Application Operations Intern",
-      "website": "",
-      "startDate": "2020",
-      "endDate": "2020",
-      "summary": "",
-      "highlights": [
-        "Formulates dashboards and reports to improve productivity",
-        "Streamlines SharePoint sites to promote collaboration"
-      ]
-    },
-    {
-      "company": "Office of Internship and Career Development | Shidler College of Business",
-      "position": "Student Advisor",
-      "website": "",
-      "startDate": "2020",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Offers peer advising and guidance to undergraduate students",
-        "Organizes a career expo with 65+ companiess in attendancee"
-      ]
-    },
-    {
-      "company": "Northwestern Mutual",
-      "position": "Marketing and Recruiting Coordinator Intern",
-      "website": "",
-      "startDate": "2018",
-      "endDate": "2019",
-      "summary": "",
-      "highlights": [
-        "Cultivated a social media presencee on Instagram, LinkedIN and Facebook",
-        "Developed a recruitment campaign and coordinated interviews with qualified candidates"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Business Executive Society of Tomorrow",
-      "website": "https://www.bestuhm.org/",
-      "position": "Director of Corporate Relations",
-      "startDate": "2019",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Pioneers Professional Interaction Night, including pairing students with 40+ Hawaii business community leaders to maximize professional growth",
-        "Advances relationships with the business community by cordinating 6 company tours"
-      ]
-    },
-    {
-      "organization": "Direct Admit Program Mentor",
-      "website": "",
-      "position": "Shidler College of Business",
-      "startDate": "2019",
-      "endDate": "2020",
-      "summary": "",
-      "highlights": [
-        "Mentored and supported college freshman in their transition to college",
-        "Promoted the direct admit program at a Shidler luncheon",
-      ]
-    }
-  ],
-  "awards": [
-   {
-      "title": "Fujitsu-JAIMS Case Competition",
-      "date": "Feb. 2019, Feb. 2020",
-      "awarder": "",
-      "summary": "2nd place finisher and 2 time participant",
-      "highlights": "Worked with 3 Fujitsu Japanese employees to deevelop an international mindset and create an innovative product using existing technologies"
-    },
-    {
-      "title": "Shidler Global Leader",
-      "date": "Aug. 2020-Present",
-      "awarder": "Shidler College of Business",
-      "summary": ""
-    },
-    {
-      "title": "Outstanding Sophomore",
-      "date": "May 2020",
-      "awarder": "Shidler College of Business, Business Night"
-    },
-    {
-      "title": "New Warrior Provost Achievement Scholar",
-      "date": "May 2018-Present",
-      "awarder": "University of Hawaii at Manoa"
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+         "name":"Traveling",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Swimming",
+         "keywords":[
+            
+         ]
+      }
+   ],
+   "skills":[
+      {
+         "name":"Bilingual",
+         "level":"",
+         "keywords":[
+            "French"
+         ]
+      },
+      {
+         "name":"Microsoft Office",
+         "level":"",
+         "keywords":[
+            "Excel, Word, Powerpoint, SharePoint"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"Shidler College of Business | University of Hawaii at Manoa",
+         "area":"Marketing and Management Information Systems (expected Spring, 2022)",
+         "studyType":"B.B.A",
+         "startDate":"2018",
+         "endDate":"Present",
+         "gpa":"3.93",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"Bank of Hawaii",
+         "position":"Application Operations Intern",
+         "website":"",
+         "startDate":"2020",
+         "endDate":"2020",
+         "summary":"",
+         "highlights":[
+            "Formulates dashboards and reports to improve productivity",
+            "Streamlines SharePoint sites to promote collaboration"
+         ]
+      },
+      {
+         "company":"Office of Internship and Career Development | Shidler College of Business",
+         "position":"Student Advisor",
+         "website":"",
+         "startDate":"2020",
+         "endDate":"Present",
+         "summary":"",
+         "highlights":[
+            "Offers peer advising and guidance to undergraduate students",
+            "Organizes a career expo with 65+ companiess in attendancee"
+         ]
+      },
+      {
+         "company":"Northwestern Mutual",
+         "position":"Marketing and Recruiting Coordinator Intern",
+         "website":"",
+         "startDate":"2018",
+         "endDate":"2019",
+         "summary":"",
+         "highlights":[
+            "Cultivated a social media presencee on Instagram, LinkedIN and Facebook",
+            "Developed a recruitment campaign and coordinated interviews with qualified candidates"
+         ]
+      }
+   ],
+   "volunteer":[
+      {
+         "organization":"Business Executive Society of Tomorrow",
+         "website":"https://www.bestuhm.org/",
+         "position":"Director of Corporate Relations",
+         "startDate":"2019",
+         "endDate":"Present",
+         "summary":"",
+         "highlights":[
+            "Pioneers Professional Interaction Night, including pairing students with 40+ Hawaii business community leaders to maximize professional growth",
+            "Advances relationships with the business community by cordinating 6 company tours"
+         ]
+      },
+      {
+         "organization":"Direct Admit Program Mentor",
+         "website":"",
+         "position":"Shidler College of Business",
+         "startDate":"2019",
+         "endDate":"2020",
+         "summary":"",
+         "highlights":[
+            "Mentored and supported college freshman in their transition to college",
+            "Promoted the direct admit program at a Shidler luncheon"
+         ]
+      }
+   ],
+   "awards":[
+      {
+         "title":"Fujitsu-JAIMS Case Competition",
+         "date":"Feb. 2019, Feb. 2020",
+         "awarder":"",
+         "summary":"2nd place finisher and 2 time participant",
+         "highlights":"Worked with 3 Fujitsu Japanese employees to deevelop an international mindset and create an innovative product using existing technologies"
+      },
+      {
+         "title":"Shidler Global Leader",
+         "date":"Aug. 2020-Present",
+         "awarder":"Shidler College of Business",
+         "summary":""
+      },
+      {
+         "title":"Outstanding Sophomore",
+         "date":"May 2020",
+         "awarder":"Shidler College of Business, Business Night"
+      },
+      {
+         "title":"New Warrior Provost Achievement Scholar",
+         "date":"May 2018-Present",
+         "awarder":"University of Hawaii at Manoa"
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
